@@ -10,7 +10,7 @@ Run hajime.rb for a cool surprise :-)
 
 ```ruby
 ruby hajime.rb
-``
+```
 
 ## Contributing
 
