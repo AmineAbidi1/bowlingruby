@@ -4,3 +4,4 @@ file = File.open('./wow.data', 'r')
 file.each_line do |line|
   puts line
 end
+file.close
