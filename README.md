@@ -4,6 +4,14 @@ A code kata is an exercise in programming which helps a programmer hone their sk
 The Bowling Game kata was introduced by Robert C. Martin, and this is my own Ruby implementation of that.
 I practice this kata everyday, before starting actual work.
 
+## Usage
+
+Run hajime.rb for a cool surprise :-)
+
+```ruby
+ruby hajime.rb
+``
+
 ## Contributing
 
 Tests imporvments, algorithms complexities improvements as well as overall project sturucture tips are well-appreciated contributions.
