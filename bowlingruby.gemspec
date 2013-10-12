@@ -1,11 +1,11 @@
 # encoding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'bowlinggamekata/version'
+require 'bowlingruby/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "bowlinggamekata"
-  spec.version       = Bowlinggamekata::VERSION
+  spec.name          = "bowlingruby"
+  spec.version       = Bowlingruby::VERSION
   spec.authors       = ["Amine Labidi"]
   spec.email         = ["med.amine.labidi@gmail.com"]
   spec.description   = %q{A Ruby implementation of the Bowling Game Kata}
